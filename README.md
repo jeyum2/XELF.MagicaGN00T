@@ -27,18 +27,19 @@
 ## ⚠ Warnings / Limitations
 * Scene Graph
   * ⚠ scale origin should be set 0.5 0.5 0.5. Otherwise, incorrect results.
-  * ⚠ Some rotation (flip) have bugs.
+  * ⚠ Some rotations (flips) have bugs.
   * ⚠ Multiple voxel objects will not merged. That is, arrayed tranparent (glass) objects can still be seen visible seams.
-* ⚠ This edtion written in C#6
+* ⚠ This edition written in C#6
   * Required settings: `Player Settings`►`Configuration`►`Scripting Runtime Version` ➡ `.NET 4.x Equivalent`
 * ⚠ Breaking Changes contained in.
   * ⚠ Imported assets are incompatible with the original MagicaGN00T. That is, `Generate Model` needed again when you migrate assets.
 * ⚠ Colors and materials are imported as per-vertex data. Therefore, original Standard shader not suitable for this.
 
 ## Example Included
-* ⚠ Not included examples for extended features
+* ⚠ Not included examples for advanced features
 * ⚠ Image is original edition
 ![Example Image](http://i.imgur.com/hGb84Dt.gif)
+
 ### Wireframe
 * ⚠ Image is original edition
 ![Example Wireframe](http://i.imgur.com/mtUNBTO.png)

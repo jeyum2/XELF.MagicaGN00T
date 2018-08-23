@@ -18,13 +18,13 @@
 * Added supports for material categorized meshes: Opaque / Transparent
 * Added supports for Scene Graph (`nTRN` / `nGRP` / `nSHP` chunks)
 * Added supports for `MATL` (newer Material) chunks
-  * Added shader supports for Smoothess, Emission, Metallic
+  * Added shader supports for Smoothess / Emission / Metallic
   * Added Tranparent shader
 * Added supports for `LAYR` (Layer) chunks
   * In Scene Graph, objects will import as inactive when its layer is set invisible.
 * Added supports for `rOBJ` (Rendering Setting undocumented) chunks
   * note: Not used in imported models
-  * Added 'Omits UV unwrapping' option: for fast iteration
+  * Added `Omits UV unwrapping` option: for fast iteration
 
 ## ⚠ Warnings / Limitations
 * Scene Graph

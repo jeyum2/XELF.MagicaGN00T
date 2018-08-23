@@ -28,7 +28,7 @@
 
 ## ⚠ Warnings / Limitations
 * Scene Graph
-  * ⚠ scale origin should be set 0.5 0.5 0.5. Otherwise, incorrect results.
+  * ⚠ scale origin should be set `0.5` `0.5` `0.5`. Otherwise, incorrect results.
   * ⚠ Some rotations (flips) have bugs.
   * ⚠ Multiple voxel objects will not merged. That is, arrayed tranparent (glass) objects can still be seen visible seams.
 * ⚠ This edition written in C#6

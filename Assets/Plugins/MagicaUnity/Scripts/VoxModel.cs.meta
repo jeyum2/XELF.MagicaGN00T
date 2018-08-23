@@ -1,10 +1,13 @@
 fileFormatVersion: 2
 guid: 11b52bfff8ba1f84b809d4a7d42836cc
-timeCreated: 1490587542
-licenseType: Free
 MonoImporter:
+  externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - prefab: {instanceID: 0}
+  - materialOpaque: {fileID: 2100000, guid: 65ae680df27ff89449981156cee83ce3, type: 2}
+  - materialTransparent: {fileID: 2100000, guid: 5d2a18510f4b3984ab19a60173710da7,
+      type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

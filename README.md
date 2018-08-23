@@ -1,11 +1,11 @@
 <small class="info">✒ I apologize that English is not my 1<sup>st</sup> language. So these 🗎s are possibly no warranty, just like this license is so. 🐉</small>
 
 ---
-
 # 🆇🅴🅻🅵.MagicaGN00T
+---
 
 ## Overview
-* Import MagicaVoxel models and animation frames.
+* Import models and animation frames from MagicaVoxel `.vox` files.
 * Imported meshes have per-vertex color and UV3 as material based voxel data.
 
 ## Focused environments in current versions

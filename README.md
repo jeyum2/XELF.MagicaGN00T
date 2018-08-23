@@ -48,4 +48,9 @@
 
 ### Stores frames in drawers  
 * ⚠ Image is original edition
-![Frames in Drawers](http://i.imgur.com/k64ZOU2.png)
+
+### Baked Lighting (placeholder)
+* ⚠ Extended edition not cared
+* ⚠ Image is original edition
+![Baked Imaged](http://i.imgur.com/GiT6omY.png)  
+

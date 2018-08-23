@@ -40,17 +40,21 @@
 ## Example Included
 * ⚠ Not included examples for advanced features
 * ⚠ Image is original edition
+
 ![Example Image](http://i.imgur.com/hGb84Dt.gif)
 
 ### Wireframe
 * ⚠ Image is original edition
+
 ![Example Wireframe](http://i.imgur.com/mtUNBTO.png)
 
 ### Stores frames in drawers  
 * ⚠ Image is original edition
 
-### Baked Lighting (placeholder)
-* ⚠ Extended edition not cared
-* ⚠ Image is original edition
-![Baked Imaged](http://i.imgur.com/GiT6omY.png)  
+![Frames in Drawers](http://i.imgur.com/k64ZOU2.png)
 
+### Baked Lighting (placeholder)
+* ⚠ Does not currently cared
+* ⚠ Image is original edition
+
+![Baked Imaged](http://i.imgur.com/GiT6omY.png)  

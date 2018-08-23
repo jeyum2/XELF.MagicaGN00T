@@ -4,13 +4,13 @@
 
 # 🆇🅴🅻🅵.MagicaGN00T
 
+## Overview
+* Import MagicaVoxel models and animation frames.
+* Imported meshes have per-vertex color and UV3 as material based voxel data.
+
 ## Focused environments in current versions
 * [MagicaVoxel](https://ephtracy.github.io/) 0.99.1a		
 * Unity 2018.2.3f1		
-
-## Features
-* Import MagicaVoxel models and animation frames.
-* Imported meshes have per-vertex color and UV3 as material based voxel data.
 
 ## Advanced Features from original [MagicaGN00T on 30 Mar 2017](https://github.com/xelfia/MagicaGN00T/commit/fe8c4ccb6d27084c32c57d68f417feb526f6e43c)
 * Added supports for [MagicaVoxel .vox File Format extension](https://github.com/ephtracy/voxel-model/blob/master/MagicaVoxel-file-format-vox-extension.txt) (of MagicaVoxel 0.99.1a)
@@ -45,3 +45,7 @@
 ### Wireframe
 * ⚠ Image is original edition
 ![Example Wireframe](http://i.imgur.com/mtUNBTO.png)
+
+### Stores frames in drawers  
+* ⚠ Image is original edition
+![Frames in Drawers](http://i.imgur.com/k64ZOU2.png)

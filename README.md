@@ -1,9 +1,11 @@
 <small class="info">✒ I apologize that English is not my 1<sup>st</sup> language. So these 🗎s are possibly no warranty, just like this license is so. 🐉</small>
 
+---
+
 # 🆇🅴🅻🅵.MagicaGN00T
 
 ## Focused environments in current versions
-* [MagicaVoxel](https://ephtracy.github.io/) 0.99a		
+* [MagicaVoxel](https://ephtracy.github.io/) 0.99.1a		
 * Unity 2018.2.3f1		
 
 ## Features

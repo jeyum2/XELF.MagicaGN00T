@@ -8,7 +8,7 @@
 
 ## Features
 * Import MagicaVoxel models and animation frames.
-* Imported Meshes has per-vertex color and UV3 as material based voxel data.
+* Imported meshes have per-vertex color and UV3 as material based voxel data.
 
 ## Advanced Features from original [MagicaGN00T on 30 Mar 2017](https://github.com/xelfia/MagicaGN00T/commit/fe8c4ccb6d27084c32c57d68f417feb526f6e43c)
 * Added supports for [MagicaVoxel .vox File Format extension](https://github.com/ephtracy/voxel-model/blob/master/MagicaVoxel-file-format-vox-extension.txt) (of MagicaVoxel 0.99.1a)
@@ -33,7 +33,7 @@
   * Required settings: `Player Settings`►`Configuration`►`Scripting Runtime Version` ➡ `.NET 4.x Equivalent`
 * ⚠ Breaking Changes contained in.
   * ⚠ Imported assets are incompatible with the original MagicaGN00T. That is, `Generate Model` needed again when you migrate assets.
-* ⚠ Colors and materials are imported as per-vertex data. Therefore, original Standard shader not suitable for this.
+* ⚠ Colors and materials are imported as per-vertex data. Therefore, original Unity Standard shader not suitable for this.
 
 ## Example Included
 * ⚠ Not included examples for advanced features

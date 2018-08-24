@@ -41,6 +41,8 @@
 * ⚠ Not included examples for advanced features
 * ⚠ Image is original edition
 
+☛[View `AnimationExample` as WebGL (based on original edition)](https://xelfia.github.io/XELF.MagicaGN00T/)
+
 ![Example Image](http://i.imgur.com/hGb84Dt.gif)
 
 ### Wireframe

@@ -10,7 +10,7 @@
 
 ## Focused environments in current versions
 * [MagicaVoxel](https://ephtracy.github.io/) 0.99.1a		
-* Unity 2018.2.3f1		
+* Unity 2018.2.5f1		
 
 ## Advanced Features from original [MagicaGN00T on 30 Mar 2017](https://github.com/xelfia/MagicaGN00T/commit/fe8c4ccb6d27084c32c57d68f417feb526f6e43c)
 * Added supports for [MagicaVoxel .vox File Format extension](https://github.com/ephtracy/voxel-model/blob/master/MagicaVoxel-file-format-vox-extension.txt) (of MagicaVoxel 0.99.1a)
@@ -32,31 +32,31 @@
   * ⚠ Some rotations (flips) have bugs.
   * ⚠ Multiple voxel objects will not merged. That is, arrayed tranparent (glass) objects can still be seen visible seams.
 * ⚠ This edition written in C#6
-  * Required settings: `Player Settings`►`Configuration`►`Scripting Runtime Version` ➡ `.NET 4.x Equivalent`
+  * Required settings: `Player Settings`►`Configuration`►`Scripting Runtime Version`➡`.NET 4.x Equivalent`
 * ⚠ Breaking Changes contained in.
   * ⚠ Imported assets are incompatible with the original `MagicaGN00T`. That is, `Generate Model` needed again when you migrate assets.
-* ⚠ Colors and materials are imported as per-vertex data. Therefore, original Unity Standard shader not suitable for this.
+* ⚠ Colors and materials are imported as per-vertex data. Therefore, original Unity Standard shader does not suitable for this.
 
 ## Example Included
 * ⚠ Not included examples for advanced features
-* ⚠ Image is original edition
+* ⚠ Image is from the original `MagicaGN00T`
 
-☛[View `AnimationExample` as WebGL (based on original edition)](https://xelfia.github.io/XELF.MagicaGN00T/)
+☛ [View `AnimationExample` as WebGL (based on original edition)](https://xelfia.github.io/XELF.MagicaGN00T/)
 
 ![Example Image](http://i.imgur.com/hGb84Dt.gif)
 
 ### Wireframe
-* ⚠ Image is original edition
+* ⚠ Image is from the original `MagicaGN00T`
 
 ![Example Wireframe](http://i.imgur.com/mtUNBTO.png)
 
 ### Stores frames in drawers  
-* ⚠ Image is original edition
+* ⚠ Image is from the original `MagicaGN00T`
 
 ![Frames in Drawers](http://i.imgur.com/k64ZOU2.png)
 
 ### Baked Lighting (placeholder)
 * ⚠ Does not currently cared
-* ⚠ Image is original edition
+* ⚠ Image is from the original `MagicaGN00T`
 
 ![Baked Imaged](http://i.imgur.com/GiT6omY.png)  

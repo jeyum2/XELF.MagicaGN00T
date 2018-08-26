@@ -28,13 +28,13 @@
 
 ## ⚠ Warnings / Limitations
 * Scene Graph
-  * ⚠ scale origin should be set `0.5` `0.5` `0.5`. Otherwise, incorrect results.
+  * ⚠ `Scale origin` should be set `0.5` `0.5` `0.5`. Otherwise, incorrect results.
   * ⚠ Some rotations (flips) have bugs.
   * ⚠ Multiple voxel objects will not merged. That is, arrayed tranparent (glass) objects can still be seen visible seams.
 * ⚠ This edition written in C#6
   * Required settings: `Player Settings`►`Configuration`►`Scripting Runtime Version` ➡ `.NET 4.x Equivalent`
 * ⚠ Breaking Changes contained in.
-  * ⚠ Imported assets are incompatible with the original MagicaGN00T. That is, `Generate Model` needed again when you migrate assets.
+  * ⚠ Imported assets are incompatible with the original `MagicaGN00T`. That is, `Generate Model` needed again when you migrate assets.
 * ⚠ Colors and materials are imported as per-vertex data. Therefore, original Unity Standard shader not suitable for this.
 
 ## Example Included

@@ -29,8 +29,9 @@
 
 ### New instructions to Import a `.vox` file
 1. Add `.vox` file into you project folder.
-2. In the Import Settings (Scripted Importer Editor) inspector by `VoxelImporter`, select the Setings `VoxImportSettings`. (or create a new `VoxImportSettings`)
-3. Click `Apply` button. (If it grayed out, `Reimport` instead)
+2. Select it in project window.
+3. In the Import Settings (Scripted Importer Editor) inspector by `VoxelImporter`, select the Settings `VoxImportSettings`. (or create a new `VoxImportSettings`)
+4. Click `Apply` button. (If it grayed out, `Reimport` instead)
 
 ---
 

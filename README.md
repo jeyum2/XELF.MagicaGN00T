@@ -25,7 +25,7 @@
 * Example scene `AnimationExample.unity` and corresponded assets are reconstructed. (not fully compatible with previous)
 
 ### New
-* Added `package.json` is containned for Package Manager.
+* Added `package.json` is contained for Package Manager.
 
 ### New instructions to Import a `.vox` file
 1. Add `.vox` file into you project folder.
@@ -35,7 +35,7 @@
 ---
 
 ## Install via Package Manager
-* Temporal `package.json` is containned for Package Manager.
+* Temporal `package.json` is contained for Package Manager.
   * For more informations ☛ [XELF.Hexelate.Shader](https://github.com/xelfia/XELF.Hexelate.Shader)
 
 ## Advanced Features from original [MagicaGN00T on 30 Mar 2017](https://github.com/xelfia/MagicaGN00T/commit/fe8c4ccb6d27084c32c57d68f417feb526f6e43c)

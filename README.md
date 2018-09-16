@@ -9,8 +9,29 @@
 * Imported meshes have per-vertex color and UV3 as material based voxel data.
 
 ## Focused environments in current versions
-* [MagicaVoxel](https://ephtracy.github.io/) 0.99.1a		
-* Unity 2018.2.5f1		
+* [MagicaVoxel](https://ephtracy.github.io/) 0.99.1a
+* Unity `2018.2.8f1` `2018.3.0b1`
+
+
+## v2.0.0 Breaking Changes
+* Added `VoxelImporter` uses `ScriptedImporter` as a Unity experimental feature in Unity `2018.2.x`.
+* `VoxelImporter` can import a MagicaVoxel .vox file as an asset.
+* `VoxModel` no longer directly used. `VoxModel` will now be contained as named `vox` in its portion of the asset of .vox file.
+* Asset of .vox file is saved by Unity at out of project folder. Therefore, you can reduce the size of the project.
+* Added `VoxImportSettings` describes `VoxModel` importing settings isolated from `VoxModel`.
+* Example scene `AnimationExample.unity` and corresponded assets are reconstructed. (not fully compatible with previous)
+
+## New at v2.0.0
+* Added `package.json` is containned for Package Manager.
+
+## New instructions to Import a `.vox` file
+1. Add `.vox` file into you project folder.
+2. In the Import Settings (Scripted Importer Editor) inspector by `VoxelImporter`, select the Setings `VoxImportSettings`. (or create a new `VoxImportSettings`)
+3. Click `Apply` button. (If it grayed out, `Reimport` instead)
+
+## Install via Package Manager
+* Temporal `package.json` is containned for Package Manager.
+  * For more informations ☛ [XELF.Hexelate.Shader](https://github.com/xelfia/XELF.Hexelate.Shader)
 
 ## Advanced Features from original [MagicaGN00T on 30 Mar 2017](https://github.com/xelfia/MagicaGN00T/commit/fe8c4ccb6d27084c32c57d68f417feb526f6e43c)
 * Added supports for [MagicaVoxel .vox File Format extension](https://github.com/ephtracy/voxel-model/blob/master/MagicaVoxel-file-format-vox-extension.txt) (of MagicaVoxel 0.99.1a)

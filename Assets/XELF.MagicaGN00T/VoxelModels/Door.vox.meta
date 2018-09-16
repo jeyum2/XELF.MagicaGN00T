@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: 138b859a910a5df499cef0217587da09
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: main/New Game Object
+    100002: main/New Game Object/New Game Object
+    100004: main/New Game Object/New Game Object/Model[0].opaque
+    100006: main/New Game Object/New Game Object/Model[0].opaque/0
+    100008: main/New Game Object/New Game Object
+    100010: main/New Game Object/New Game Object/Model[1].opaque
+    100012: main/New Game Object/New Game Object/Model[1].opaque/0
+    100014: main/New Game Object/New Game Object
+    100016: main/New Game Object/New Game Object/Model[2].opaque
+    100018: main/New Game Object/New Game Object/Model[2].opaque/0
+    100020: main/New Game Object/New Game Object
+    100022: main/New Game Object/New Game Object/Model[3].opaque
+    100024: main/New Game Object/New Game Object/Model[3].opaque/0
+    100026: main/New Game Object/New Game Object
+    100028: main/New Game Object/New Game Object/Model[4].opaque
+    100030: main/New Game Object/New Game Object/Model[4].opaque/0
+    100032: main/New Game Object/New Game Object
+    100034: main/New Game Object/New Game Object/Model[5].opaque
+    100036: main/New Game Object/New Game Object/Model[5].opaque/0
+    100038: main/New Game Object/New Game Object
+    100040: main/New Game Object/New Game Object/Model[6].opaque
+    100042: main/New Game Object/New Game Object/Model[6].opaque/0
+    100044: main/New Game Object/New Game Object
+    100046: main/New Game Object/New Game Object/Model[7].opaque
+    100048: main/New Game Object/New Game Object/Model[7].opaque/0
+    100050: main/New Game Object/New Game Object
+    100052: main/New Game Object/New Game Object/Model[8].opaque
+    100054: main/New Game Object/New Game Object/Model[8].opaque/0
+    400000: main/New Game Object/Transform
+    400002: main/New Game Object/New Game Object/Transform
+    400004: main/New Game Object/New Game Object/Model[0].opaque/Transform
+    400006: main/New Game Object/New Game Object/Model[0].opaque/0/Transform
+    400008: main/New Game Object/New Game Object/Transform
+    400010: main/New Game Object/New Game Object/Model[1].opaque/Transform
+    400012: main/New Game Object/New Game Object/Model[1].opaque/0/Transform
+    400014: main/New Game Object/New Game Object/Transform
+    400016: main/New Game Object/New Game Object/Model[2].opaque/Transform
+    400018: main/New Game Object/New Game Object/Model[2].opaque/0/Transform
+    400020: main/New Game Object/New Game Object/Transform
+    400022: main/New Game Object/New Game Object/Model[3].opaque/Transform
+    400024: main/New Game Object/New Game Object/Model[3].opaque/0/Transform
+    400026: main/New Game Object/New Game Object/Transform
+    400028: main/New Game Object/New Game Object/Model[4].opaque/Transform
+    400030: main/New Game Object/New Game Object/Model[4].opaque/0/Transform
+    400032: main/New Game Object/New Game Object/Transform
+    400034: main/New Game Object/New Game Object/Model[5].opaque/Transform
+    400036: main/New Game Object/New Game Object/Model[5].opaque/0/Transform
+    400038: main/New Game Object/New Game Object/Transform
+    400040: main/New Game Object/New Game Object/Model[6].opaque/Transform
+    400042: main/New Game Object/New Game Object/Model[6].opaque/0/Transform
+    400044: main/New Game Object/New Game Object/Transform
+    400046: main/New Game Object/New Game Object/Model[7].opaque/Transform
+    400048: main/New Game Object/New Game Object/Model[7].opaque/0/Transform
+    400050: main/New Game Object/New Game Object/Transform
+    400052: main/New Game Object/New Game Object/Model[8].opaque/Transform
+    400054: main/New Game Object/New Game Object/Model[8].opaque/0/Transform
+    2300000: main/New Game Object/New Game Object/Model[0].opaque/0/MeshRenderer
+    2300002: main/New Game Object/New Game Object/Model[1].opaque/0/MeshRenderer
+    2300004: main/New Game Object/New Game Object/Model[2].opaque/0/MeshRenderer
+    2300006: main/New Game Object/New Game Object/Model[3].opaque/0/MeshRenderer
+    2300008: main/New Game Object/New Game Object/Model[4].opaque/0/MeshRenderer
+    2300010: main/New Game Object/New Game Object/Model[5].opaque/0/MeshRenderer
+    2300012: main/New Game Object/New Game Object/Model[6].opaque/0/MeshRenderer
+    2300014: main/New Game Object/New Game Object/Model[7].opaque/0/MeshRenderer
+    2300016: main/New Game Object/New Game Object/Model[8].opaque/0/MeshRenderer
+    3300000: main/New Game Object/New Game Object/Model[0].opaque/0/MeshFilter
+    3300002: main/New Game Object/New Game Object/Model[1].opaque/0/MeshFilter
+    3300004: main/New Game Object/New Game Object/Model[2].opaque/0/MeshFilter
+    3300006: main/New Game Object/New Game Object/Model[3].opaque/0/MeshFilter
+    3300008: main/New Game Object/New Game Object/Model[4].opaque/0/MeshFilter
+    3300010: main/New Game Object/New Game Object/Model[5].opaque/0/MeshFilter
+    3300012: main/New Game Object/New Game Object/Model[6].opaque/0/MeshFilter
+    3300014: main/New Game Object/New Game Object/Model[7].opaque/0/MeshFilter
+    3300016: main/New Game Object/New Game Object/Model[8].opaque/0/MeshFilter
+    4300000: .0.0.opaque
+    4300002: .0.0.transparent
+    4300004: .1.0.opaque
+    4300006: .1.0.transparent
+    4300008: .2.0.opaque
+    4300010: .2.0.transparent
+    4300012: .3.0.opaque
+    4300014: .3.0.transparent
+    4300016: .4.0.opaque
+    4300018: .4.0.transparent
+    4300020: .5.0.opaque
+    4300022: .5.0.transparent
+    4300024: .6.0.opaque
+    4300026: .6.0.transparent
+    4300028: .7.0.opaque
+    4300030: .7.0.transparent
+    4300032: .8.0.opaque
+    4300034: .8.0.transparent
+    11400000: model
+    20500000: main/New Game Object/New Game Object/Model[0].opaque/LODGroup
+    20500002: main/New Game Object/New Game Object/Model[1].opaque/LODGroup
+    20500004: main/New Game Object/New Game Object/Model[2].opaque/LODGroup
+    20500006: main/New Game Object/New Game Object/Model[3].opaque/LODGroup
+    20500008: main/New Game Object/New Game Object/Model[4].opaque/LODGroup
+    20500010: main/New Game Object/New Game Object/Model[5].opaque/LODGroup
+    20500012: main/New Game Object/New Game Object/Model[6].opaque/LODGroup
+    20500014: main/New Game Object/New Game Object/Model[7].opaque/LODGroup
+    20500016: main/New Game Object/New Game Object/Model[8].opaque/LODGroup
+    100100000: main
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 72a641d10c1831c4088f4290ed6012a0, type: 3}
+  Settings: {fileID: 11400000, guid: 74428db135d334843b48a136d9f83852, type: 2}

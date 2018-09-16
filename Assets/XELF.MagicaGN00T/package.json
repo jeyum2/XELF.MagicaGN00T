@@ -1,0 +1,19 @@
+{
+  "name": "info.xelf.magicagn00t",
+  "displayName": "XELF.MagicaGN00T",
+  "version": "2.0.0",
+  "unity": "2018.2",
+  "description": "MagicaVoxel Importer extended edition for Unity: mesher, simple animation, scene graph, LOD, …",
+  "keywords": [
+    "Script",
+    "Shader",
+    "Importer"
+  ],
+  "category": "Importer",
+  "dependencies": {},
+  "auther": "Extented: XELF / Original: Donovan `GN00T`",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xelfia/XELF.MagicaGN00T.git"
+  }
+}

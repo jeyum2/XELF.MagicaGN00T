@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 2525ca2b82d2f6744a15a5bf4e4949f2
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: main/New Game Object
+    100002: main/New Game Object/New Game Object
+    100004: main/New Game Object/New Game Object/Model[0].opaque
+    100006: main/New Game Object/New Game Object/Model[0].opaque/0
+    400000: main/New Game Object/Transform
+    400002: main/New Game Object/New Game Object/Transform
+    400004: main/New Game Object/New Game Object/Model[0].opaque/Transform
+    400006: main/New Game Object/New Game Object/Model[0].opaque/0/Transform
+    2300000: main/New Game Object/New Game Object/Model[0].opaque/0/MeshRenderer
+    3300000: main/New Game Object/New Game Object/Model[0].opaque/0/MeshFilter
+    4300000: .0.0.opaque
+    4300002: .0.0.transparent
+    11400000: model
+    20500000: main/New Game Object/New Game Object/Model[0].opaque/LODGroup
+    100100000: main
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 72a641d10c1831c4088f4290ed6012a0, type: 3}
+  Settings: {fileID: 11400000, guid: 74428db135d334843b48a136d9f83852, type: 2}

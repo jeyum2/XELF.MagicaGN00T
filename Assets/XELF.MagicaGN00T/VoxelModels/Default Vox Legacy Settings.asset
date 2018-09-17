@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcb0715f4eaec9e49a6f4a85048ceafd, type: 3}
+  m_Name: Default Vox Legacy Settings
+  m_EditorClassIdentifier: 
+  asSceneGraph: 0
+  OmitsUVUnwrapping: 0
+  EnablesTransparent: 0
+  materialOpaque: {fileID: 2100000, guid: eafa6f22c64964e438a69a963e8ee612, type: 2}
+  materialTransparent: {fileID: 2100000, guid: e74a9247a44417443b1ba600e9fecea1, type: 2}
+  modelScale: 0.1
+  origin: {x: 0.5, y: 0, z: 0.5}
+  maxLOD: 1
+  LODBias: 0

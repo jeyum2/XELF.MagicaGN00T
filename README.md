@@ -46,7 +46,7 @@
 * Added supports for Scene Graph (`nTRN` / `nGRP` / `nSHP` chunks)
 * Added supports for `MATL` (newer Material) chunks
   * Added shader supports for Smoothess / Emission / Metallic
-  * Added Tranparent shader
+  * Added Transparent shader
 * Added supports for `LAYR` (Layer) chunks
   * In Scene Graph, objects will import as inactive when its layer is set invisible.
 * Added supports for `rOBJ` (Rendering Setting undocumented) chunks
@@ -57,7 +57,7 @@
 * Scene Graph
   * ⚠ Scale `Origin` should be set `0.5` `0.5` `0.5`. Otherwise, incorrect results.
   * ⚠ Some rotations (flips) have bugs.
-  * ⚠ Multiple voxel objects will not merged. That is, arrayed tranparent (glass) objects can still be seen visible seams.
+  * ⚠ Multiple voxel objects will not merged. That is, arrayed transparent (glass) objects can still be seen visible seams.
 * ⚠ This edition written in C#6
   * Required settings: `Player Settings`►`Configuration`►`Scripting Runtime Version`➡`.NET 4.x Equivalent`
 * ⚠ Breaking Changes contained in.

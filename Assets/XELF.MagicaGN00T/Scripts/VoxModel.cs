@@ -36,8 +36,8 @@ namespace GN00T.MagicaUnity {
 	public struct MeshLODs {
 		public List<MeshSet> LODs;
 
-		public MeshLODs(Mesh opaque = null, Mesh tranparent = null) {
-			LODs = new List<MeshSet> { new MeshSet { opaque = opaque, transparent = tranparent, }, };
+		public MeshLODs(Mesh opaque = null, Mesh transparent = null) {
+			LODs = new List<MeshSet> { new MeshSet { opaque = opaque, transparent = transparent, }, };
 		}
 	}
 	[System.Serializable]

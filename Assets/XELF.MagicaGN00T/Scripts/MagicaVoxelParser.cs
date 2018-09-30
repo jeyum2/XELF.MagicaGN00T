@@ -67,7 +67,7 @@ namespace GN00T.MagicaUnity {
 				} else {
 					var list = new MeshLODs(
 						new Mesh { name = $"{i}.opaque", },
-						new Mesh { name = $"{i}.tranparent" });
+						new Mesh { name = $"{i}.transparent" });
 					mesher.MeshVoxelData(output, frame.Where(output.palette, c => c.a >= 1), list.LODs[0].opaque);
 					mesher.MeshVoxelData(output, frame.Where(output.palette, c => c.a < 1), list.LODs[0].transparent);
 					output.meshes.Add(list);

@@ -17,7 +17,7 @@
 ## v2.0.0
 
 ### Breaking Changes
-* Added `VoxelImporter` uses `ScriptedImporter` as a Unity experimental feature in Unity `2018.2.x`.
+* Added `VoxelImporter` is derived from `ScriptedImporter` as a Unity experimental feature in Unity `2018.2.x`.
 * `VoxelImporter` can import a MagicaVoxel `.vox` file as an asset. No more extra prefab needed in a project folder.
 * `VoxModel` no longer directly used. `VoxModel` will now be contained as named `vox` in its portion of the asset of `.vox` file.
 * Asset of `.vox` file is saved by Unity at out of project folder. Therefore, you can reduce the size of the project (repository).
@@ -28,7 +28,7 @@
 * Added `package.json` is contained for Package Manager.
 
 ### New instructions to Import a `.vox` file
-1. Add `.vox` file into you project folder.
+1. Add `.vox` file into your project folder.
 2. Select it in project window.
 3. In the Import Settings (Scripted Importer Editor) inspector by `VoxelImporter`, select the Settings `VoxImportSettings`. (or create a new `VoxImportSettings`)
 4. Click `Apply` button. (If it grayed out, `Reimport` instead)

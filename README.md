@@ -45,7 +45,7 @@
 * Added supports for material categorized meshes: Opaque / Transparent
 * Added supports for Scene Graph (`nTRN` / `nGRP` / `nSHP` chunks)
 * Added supports for `MATL` (newer Material) chunks
-  * Added shader supports for Smoothess / Emission / Metallic
+  * Added shader supports for Smoothness / Emission / Metallic
   * Added Transparent shader
 * Added supports for `LAYR` (Layer) chunks
   * In Scene Graph, objects will import as inactive when its layer is set invisible.
